@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81DEC20-BFAC-4142-9221-16733D80973A}|Bai6\\Bai6.csproj|d:\\2024-2025\\k\u00EC 3\\back_end\\bt c#\\lab1.2\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81DEC20-BFAC-4142-9221-16733D80973A}|Bai6\\Bai6.csproj|solutionrelative:bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE3F08F-967A-43C3-851E-97E40C2F8FA5}|Bai5\\Bai5.csproj|d:\\2024-2025\\k\u00EC 3\\back_end\\bt c#\\lab1.2\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE3F08F-967A-43C3-851E-97E40C2F8FA5}|Bai5\\Bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D66CD8-8367-4092-9DF6-52B84631F859}|Bai4\\Bai4.csproj|d:\\2024-2025\\k\u00EC 3\\back_end\\bt c#\\lab1.2\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D66CD8-8367-4092-9DF6-52B84631F859}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB7D4E7-2066-4B8B-BBA3-CA1F41BD206E}|Bai3\\Bai3.csproj|d:\\2024-2025\\k\u00EC 3\\back_end\\bt c#\\lab1.2\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB7D4E7-2066-4B8B-BBA3-CA1F41BD206E}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CA3B78-CFD9-4C2C-8CA5-353B8B5743C0}|Bai2\\Bai2.csproj|d:\\2024-2025\\k\u00EC 3\\back_end\\bt c#\\lab1.2\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CA3B78-CFD9-4C2C-8CA5-353B8B5743C0}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF057391-2E68-480D-8459-39E07F1DE063}|Bai1\\Bai1.csproj|d:\\2024-2025\\k\u00EC 3\\back_end\\bt c#\\lab1.2\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF057391-2E68-480D-8459-39E07F1DE063}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6\\Program.cs",
+              "ToolTip": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai6\\Program.cs*",
+              "RelativeToolTip": "Bai6\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:10:11.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "Bai5\\Program.cs",
+              "ToolTip": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai5\\Program.cs",
+              "RelativeToolTip": "Bai5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:08:45.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4\\Program.cs",
+              "ToolTip": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai4\\Program.cs",
+              "RelativeToolTip": "Bai4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:04:47.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:02:11.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:59:34.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Lab1.2\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:43:46.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
