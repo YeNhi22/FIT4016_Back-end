@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai9Lab13/1.0.0": {
+        "runtime": {
+          "Bai9Lab13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai9Lab13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
