@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Bai14Lab13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1805DF7B-407C-4B2A-91FD-529C517B0AE1}|Bai14Lab13.csproj|d:\\2024-2025\\k\u00EC 3\\back_end\\bt c#\\bai14lab13\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1805DF7B-407C-4B2A-91FD-529C517B0AE1}|Bai14Lab13.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1805DF7B-407C-4B2A-91FD-529C517B0AE1}|Bai14Lab13.csproj|d:\\2024-2025\\k\u00EC 3\\back_end\\bt c#\\bai14lab13\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1805DF7B-407C-4B2A-91FD-529C517B0AE1}|Bai14Lab13.csproj|solutionrelative:phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1805DF7B-407C-4B2A-91FD-529C517B0AE1}|Bai14Lab13.csproj|d:\\2024-2025\\k\u00EC 3\\back_end\\bt c#\\bai14lab13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1805DF7B-407C-4B2A-91FD-529C517B0AE1}|Bai14Lab13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Bai14Lab13\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Bai14Lab13\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:22:02.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhanSo.cs",
+              "DocumentMoniker": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Bai14Lab13\\PhanSo.cs",
+              "RelativeDocumentMoniker": "PhanSo.cs",
+              "ToolTip": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Bai14Lab13\\PhanSo.cs",
+              "RelativeToolTip": "PhanSo.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:21:37.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Bai14Lab13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\2024-2025\\K\u00EC 3\\Back_End\\BT C#\\Bai14Lab13\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:20:34.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
