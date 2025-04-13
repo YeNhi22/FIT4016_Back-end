@@ -1,0 +1,14 @@
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\bin\Debug\net8.0\Bai15Lab13.exe
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\bin\Debug\net8.0\Bai15Lab13.deps.json
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\bin\Debug\net8.0\Bai15Lab13.runtimeconfig.json
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\bin\Debug\net8.0\Bai15Lab13.dll
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\bin\Debug\net8.0\Bai15Lab13.pdb
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\obj\Debug\net8.0\Bai15Lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\obj\Debug\net8.0\Bai15Lab13.AssemblyInfoInputs.cache
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\obj\Debug\net8.0\Bai15Lab13.AssemblyInfo.cs
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\obj\Debug\net8.0\Bai15Lab13.csproj.CoreCompileInputs.cache
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\obj\Debug\net8.0\Bai15Lab13.dll
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\obj\Debug\net8.0\refint\Bai15Lab13.dll
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\obj\Debug\net8.0\Bai15Lab13.pdb
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\obj\Debug\net8.0\Bai15Lab13.genruntimeconfig.cache
+D:\2024-2025\Kì 3\Back_End\BT C#\Bai15Lab13\obj\Debug\net8.0\ref\Bai15Lab13.dll
